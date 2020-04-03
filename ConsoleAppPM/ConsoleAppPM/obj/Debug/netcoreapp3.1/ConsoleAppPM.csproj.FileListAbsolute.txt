@@ -9,3 +9,14 @@ C:\Users\admn\source\repos\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\Con
 C:\Users\admn\source\repos\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.AssemblyInfo.cs
 C:\Users\admn\source\repos\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.dll
 C:\Users\admn\source\repos\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.pdb
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\bin\Debug\netcoreapp3.1\ConsoleAppPM.exe
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\bin\Debug\netcoreapp3.1\ConsoleAppPM.deps.json
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\bin\Debug\netcoreapp3.1\ConsoleAppPM.runtimeconfig.json
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\bin\Debug\netcoreapp3.1\ConsoleAppPM.runtimeconfig.dev.json
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\bin\Debug\netcoreapp3.1\ConsoleAppPM.dll
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\bin\Debug\netcoreapp3.1\ConsoleAppPM.pdb
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.csprojAssemblyReference.cache
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.AssemblyInfoInputs.cache
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.AssemblyInfo.cs
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.dll
+C:\Users\admn\Documents\GitHub\SomeProject\ConsoleAppPM\ConsoleAppPM\obj\Debug\netcoreapp3.1\ConsoleAppPM.pdb
