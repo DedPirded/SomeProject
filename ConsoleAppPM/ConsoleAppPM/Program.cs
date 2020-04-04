@@ -34,7 +34,7 @@ namespace ConsoleAppPM
         {
             for (int i = 0; i < 10; i++)
             {
-                x[i] = Convert.ToInt32(Console.ReadLine());
+                x[i] = Convert.ToInt32(Console.ReadLine());//;;;;;
             }
             return x;
         }
