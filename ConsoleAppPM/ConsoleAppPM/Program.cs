@@ -13,8 +13,7 @@ namespace ConsoleAppPM
             {
                 case 1:
                     Console.WriteLine("Напишите ваш INN(писать по одному символу)");
-                    int[] inn = new int[10];
-                    DeclarArray(inn);
+                    int[] inn = DeclarArray();
                     bool checkAnswer;
                     int year;
                     int day;
@@ -30,13 +29,16 @@ namespace ConsoleAppPM
             }
 
         }
-        static int[] DeclarArray(int[] x)          // Записываем INN в виде массива, где каждый элемент массива является одним символом   
+        static int[] DeclarArray()          // Записываем INN в виде массива, где каждый элемент массива является одним символом   
         {
-            for (int i = 0; i < 10; i++)
+            long notX = Convert.ToInt64(Console.ReadLine());
+            char[] y = notX.ToString().ToCharArray();
+            int[] smt = new int[10];
+            for (int i = 0; i < smt.Length; i++)
             {
-                x[i] = Convert.ToInt32(Console.ReadLine());//;;;;;
+                smt[i] = Convert.ToInt32(y[i]) - '0';
             }
-            return x;
+            return smt;
         }
         static void CheckINN(int[] inn, out bool checkAnswer)
         {
