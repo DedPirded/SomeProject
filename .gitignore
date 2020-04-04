@@ -1,3 +1,20 @@
 
+<<<<<<< HEAD
+ConsoleAppPM/.vs/ConsoleAppPM/v16/.suo
+=======
 *.sqlite
 *.lock
+>>>>>>> 80be61316a7ce7427567d6361f96a73e54779049
+*.cache
+*.cache
+ConsoleAppPM/ConsoleAppPM/obj/Release/netcoreapp3.1/ConsoleAppPM.AssemblyInfo.cs
+ConsoleAppPM/ConsoleAppPM/obj/project.assets.json
+ConsoleAppPM/ConsoleAppPM/obj/Debug/netcoreapp3.1/ConsoleAppPM.csprojAssemblyReference.cache
+ConsoleAppPM/ConsoleAppPM/obj/Debug/netcoreapp3.1/ConsoleAppPM.assets.cache
+ConsoleAppPM/ConsoleAppPM/obj/ConsoleAppPM.csproj.nuget.dgspec.json
+ConsoleAppPM/ConsoleAppPM/obj/ConsoleAppPM.csproj.nuget.cache
+ConsoleAppPM/.vs/ConsoleAppPM/v16/Server/sqlite3/storage.ide-wal
+ConsoleAppPM/.vs/ConsoleAppPM/v16/Server/sqlite3/storage.ide-shm
+ConsoleAppPM/.vs/ConsoleAppPM/v16/Server/sqlite3/storage.ide
+ConsoleAppPM/.vs/ConsoleAppPM/v16/.suo
+ConsoleAppPM/.vs/ConsoleAppPM/DesignTimeBuild/.dtbcache
